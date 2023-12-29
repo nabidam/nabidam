@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nabidam/langs?include_private=true&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nabidam/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io)
