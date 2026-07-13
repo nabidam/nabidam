@@ -16,9 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://api.githubtrends.io/user/svg/nabidam/langs?include_private=true&theme=dark" />
-  <img src="https://api.githubtrends.io/user/svg/nabidam/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" />
-</div>
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=nabidam&theme=dark"/>
 </div>
